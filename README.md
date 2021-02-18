@@ -1,1 +1,2 @@
 # BinarySearchTree
+BST class implementation
